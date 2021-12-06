@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>AscentWeb在线购物系统</title>
+<title>AscentWeb电子商务</title>
 <link href="<%=request.getContextPath()%>/css/index.css" rel="stylesheet" type="text/css" />
 <script src="<%=request.getContextPath()%>/js/prototype-1.4.0.js" type="text/javascript"></script>
 <script src="<%=request.getContextPath()%>/js/json.js" type="text/javascript"></script>
