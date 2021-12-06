@@ -5,7 +5,7 @@ transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>AscentWeb电子商务</title>
+<title>AscentWeb在线购物系统</title>
 
 <link href="<%=request.getContextPath()%>/css/index.css" rel="stylesheet" type="text/css" />
 
